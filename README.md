@@ -1,6 +1,7 @@
 # immersal_release_checker.py
 
 ```
+$ sudo pip3 install pyyaml requests
 $ cd ~
 $ mkdir work
 $ cd work
